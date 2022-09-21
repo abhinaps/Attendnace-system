@@ -1,0 +1,26 @@
+form{
+    display: flex;
+   
+    flex-direction: column;
+    margin: 0 35%;
+    div{
+        display: flex;
+        justify-content: space-between;
+    }
+    .submit{
+        width: 15%;
+        grid-template-columns: 2fr;
+    }
+   
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+    

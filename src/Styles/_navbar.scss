@@ -1,0 +1,16 @@
+.navBar{
+    display: flex;
+    background-color: #8c1515;
+    padding: 30px;
+    height: 150px;
+    box-shadow: 0 3px 3px rgb(0,0,0,0.5);
+    margin-bottom: 1.5rem;
+    align-items: center;
+    justify-content: space-between;
+    a{
+        padding: 0 45px;
+    }
+}
+.logo{
+    height: 98.1px;
+}

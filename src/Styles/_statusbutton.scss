@@ -1,0 +1,19 @@
+.statusbtn{
+    margin: 10px;
+    border: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    background-color: transparent
+}
+.btn-check:hover{
+    transform: scale(2);
+    color: green;
+}
+.btn-shuffle:hover{
+    transform: scale(2);
+    color: yellow;
+}
+.btn-cross:hover{
+    transform: scale(2);
+    color: red;
+}

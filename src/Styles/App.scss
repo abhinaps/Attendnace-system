@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Metrophobic', sans-serif;
+}
+@import './navbar';
+@import './login';
+@import './selections';
+@import './timeslot';
+@import './statusbutton';
+@import './footer';
+
